@@ -13,10 +13,10 @@ LINKED LIST PROBLEMS:
     - at Specific Location
     - by Value
 - Traversing
-    # For Singly Linked List
+    - For Singly Linked List
         - Simple Traversing
         - Reverse Traversing		=> Using stack
-    # For Doublu Linked List
+    - For Doublu Linked List
         - From Front
         - From Behind
 - Search by Value
