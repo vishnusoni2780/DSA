@@ -1,6 +1,7 @@
 # DSA
 
 # Linked List
+ [ Singly Linked List, Doubly Linked List]
 LINKED LIST PROBLEMS:
 
 - Insertions
@@ -16,7 +17,7 @@ LINKED LIST PROBLEMS:
     - For Singly Linked List
         - Simple Traversing
         - Reverse Traversing		=> Using stack
-    - For Doublu Linked List
+    - For Doubly Linked List
         - From Front
         - From Behind
 - Search by Value
@@ -34,6 +35,7 @@ LINKED LIST PROBLEMS:
 
 
 # Queue
+ [Simple Queue, Priority Queue, Dequeue Queue, Circular Queue]
 - Enqueue
 - Dqueue
 - Print Queue
