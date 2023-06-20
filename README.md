@@ -1,7 +1,8 @@
 # DSA
 
 # Linked List
- [ Singly Linked List, Doubly Linked List]
+ [ Singly Linked List, Doubly Linked List ]
+ 
 LINKED LIST PROBLEMS:
 
 - Insertions
